@@ -13,4 +13,8 @@ rails 7.0.4
 bare bones app.
 Not git yet.
 #9/14/22
+<<<<<<< HEAD
 Gitted.
+=======
+Gitted
+>>>>>>> 8a508f58034fd635ed06ff3819a42dc2878a81fa
