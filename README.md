@@ -12,3 +12,5 @@ rails 7.0.4
 # 9/13/22
 bare bones app.
 Not git yet.
+#9/14/22
+Gitted
